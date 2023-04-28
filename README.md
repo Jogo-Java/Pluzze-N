@@ -12,3 +12,16 @@ E na 1ª Lei da Guerra na Selva, que consiste em: "Tenha iniciativa, pois nem se
 
 
 Com a intenção de me preparar e tendo em vista o objetivo de aprender e realizar um projeto(o que é esperado de um aluno de engenharia), tive a iniciativa de começar a estudar POO antes mesmo de ter sido aprovado no componente que é pré-requisito.
+
+<img width="409" alt="image" src="https://user-images.githubusercontent.com/107771171/235072966-2f99cbf2-c137-4915-b8a3-33364daba443.png">
+ já começamos como?
+
+-------------
+o que é esse ant?
+
+vou testar!!!
+
+é fazendo que se aprende a fazer aquilo que se tem que aprender a fazer
+
+API Rest FUL, token, glimpse, java executa tudo de uma vez ou toda classe é recursiva e espera simultaneamete ser chamada?
+-------------- pesquisar:
