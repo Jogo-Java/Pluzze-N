@@ -15,3 +15,13 @@ Com a intenção de me preparar e tendo em vista o objetivo de aprender e realiz
 
 <img width="409" alt="image" src="https://user-images.githubusercontent.com/107771171/235072966-2f99cbf2-c137-4915-b8a3-33364daba443.png">
  já começamos como?
+
+-------------
+o que é esse ant?
+
+vou testar!!!
+
+é fazendo que se aprende a fazer aquilo que se tem que aprender a fazer
+
+API Rest FUL, token, glimpse, java executa tudo de uma vez ou toda classe é recursiva e espera simultaneamete ser chamada?
+-------------- pesquisar:
